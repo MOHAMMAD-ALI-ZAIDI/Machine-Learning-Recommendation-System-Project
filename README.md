@@ -1,4 +1,4 @@
-# Movie Recommendation System – Content Based Filtering
+# Movie Recommendation System – 
 
 A fully–functional Movie Recommendation System built using Machine Learning + NLP, deployed as a clean Streamlit web application.
 The system recommends movies based on similarity of plot, genres, keywords, cast, and director using text vectorization + cosine similarity.
